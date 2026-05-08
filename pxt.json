@@ -1,12 +1,13 @@
 {
     "name": "LightingUpFX",
     "description": "Neopixel simulation of Lighting-Up boards",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "MIT",
     "dependencies": {
         "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
     },
     "files": [
+        "main.ts",
         "candle.ts",
         "rainbow.ts"
     ]
