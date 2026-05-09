@@ -7,5 +7,5 @@
     "dependencies": {
         "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
     },
-    "files": ["candle.ts", "rainbow.ts"]
+    "files": ["candle.ts"]
 }
