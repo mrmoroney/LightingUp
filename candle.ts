@@ -1,4 +1,4 @@
-//% color="#ff6600" icon="\uf06d" block="Candle"
+//% color="#ff6600" icon="\uf06d" block="CandleFX"
 namespace candle {
 
     let _strip: neopixel.Strip = null
