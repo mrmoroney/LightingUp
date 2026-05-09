@@ -14,8 +14,8 @@ namespace candle {
      * @param brightness brightness 0-255, eg: 255
      */
     //% block="set up candle on pin %pin with %numLeds LEDs at brightness %brightness"
-    //% pin.defl=pin.P16
-    //% numleds.defl=4
+    //% pin.defl=DigitalPin.P16
+    //% numLeds.defl=4
     //% brightness.min=0 brightness.max=255
     //% numLeds.min=1 numLeds.max=30
     export function setup(pin: DigitalPin, numLeds: number, brightness: number): void {
